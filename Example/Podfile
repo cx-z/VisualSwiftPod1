@@ -8,6 +8,6 @@ target 'VisualSwiftPod1_Example' do
   target 'VisualSwiftPod1_Tests' do
     inherit! :search_paths
 
-    
+    pod 'VisualOCPod1', :git => 'https://@github.com/cx-z/VisualOCPod1.git', :tag => '0.1.1'
   end
 end

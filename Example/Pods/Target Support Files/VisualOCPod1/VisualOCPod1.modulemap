@@ -1,0 +1,6 @@
+framework module VisualOCPod1 {
+  umbrella header "VisualOCPod1-umbrella.h"
+
+  export *
+  module * { export * }
+}

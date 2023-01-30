@@ -1,16 +1,27 @@
 PODS:
+  - VisualOCPod1 (0.1.1)
   - VisualSwiftPod1 (0.1.0)
 
 DEPENDENCIES:
+  - "VisualOCPod1 (from `https://@github.com/cx-z/VisualOCPod1.git`, tag `0.1.1`)"
   - VisualSwiftPod1 (from `../`)
 
 EXTERNAL SOURCES:
+  VisualOCPod1:
+    :git: "https://@github.com/cx-z/VisualOCPod1.git"
+    :tag: 0.1.1
   VisualSwiftPod1:
     :path: "../"
 
-SPEC CHECKSUMS:
-  VisualSwiftPod1: a2e0d7066eb40128582021d24ff4fd46abfce6c2
+CHECKOUT OPTIONS:
+  VisualOCPod1:
+    :git: "https://@github.com/cx-z/VisualOCPod1.git"
+    :tag: 0.1.1
 
-PODFILE CHECKSUM: 7e9b8f54153f3dfac497aac572046fca0cbb2b57
+SPEC CHECKSUMS:
+  VisualOCPod1: e8f6a36b78035611a79d50e958e7763f955778d7
+  VisualSwiftPod1: 642148d83029a0bccf1f2a6b10ceda3da9162534
+
+PODFILE CHECKSUM: 745a623bbede3c57790fde3d46c7f83d2687e25a
 
 COCOAPODS: 1.11.3

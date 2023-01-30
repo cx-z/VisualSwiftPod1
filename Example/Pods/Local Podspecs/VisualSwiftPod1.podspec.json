@@ -9,7 +9,7 @@
     "file": "LICENSE"
   },
   "authors": {
-    "cx-z": "visualzhang@tencent.com"
+    "cx-z": "1612379420@qq.com"
   },
   "source": {
     "git": "https://github.com/cx-z/VisualSwiftPod1.git",
@@ -18,5 +18,7 @@
   "platforms": {
     "ios": "10.0"
   },
-  "source_files": "VisualSwiftPod1/Classes/**/*"
+  "source_files": "VisualSwiftPod1/Classes/**/*",
+  "swift_versions": "4.1",
+  "swift_version": "4.1"
 }

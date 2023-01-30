@@ -1,0 +1,22 @@
+{
+  "name": "VisualOCPod1",
+  "version": "0.1.1",
+  "summary": "Test OC and Swift mix",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/visualzhang/VisualOCPod1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cx-z": "1612379420@qq.com"
+  },
+  "source": {
+    "git": "https://@github.com/cx-z/VisualOCPod1.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "VisualOCPod1/Classes/**/*"
+}
