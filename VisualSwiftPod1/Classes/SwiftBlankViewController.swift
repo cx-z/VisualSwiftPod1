@@ -7,7 +7,7 @@
 
 import UIKit
 
-class SwiftBlankViewController: UIViewController {
+@objcMembers class SwiftBlankViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
