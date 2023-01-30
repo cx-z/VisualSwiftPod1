@@ -31,6 +31,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '10.0'
 
   s.source_files = 'VisualSwiftPod1/Classes/**/*'
+  s.swift_version = "4.1"
   
   # s.resource_bundles = {
   #   'VisualSwiftPod1' => ['VisualSwiftPod1/Assets/*.png']
