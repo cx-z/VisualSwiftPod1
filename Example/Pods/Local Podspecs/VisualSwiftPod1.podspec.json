@@ -1,0 +1,22 @@
+{
+  "name": "VisualSwiftPod1",
+  "version": "0.1.0",
+  "summary": "A short description of VisualSwiftPod1.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/cx-z/VisualSwiftPod1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cx-z": "visualzhang@tencent.com"
+  },
+  "source": {
+    "git": "https://github.com/cx-z/VisualSwiftPod1.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "VisualSwiftPod1/Classes/**/*"
+}

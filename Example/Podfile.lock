@@ -1,0 +1,16 @@
+PODS:
+  - VisualSwiftPod1 (0.1.0)
+
+DEPENDENCIES:
+  - VisualSwiftPod1 (from `../`)
+
+EXTERNAL SOURCES:
+  VisualSwiftPod1:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  VisualSwiftPod1: a2e0d7066eb40128582021d24ff4fd46abfce6c2
+
+PODFILE CHECKSUM: 7e9b8f54153f3dfac497aac572046fca0cbb2b57
+
+COCOAPODS: 1.11.3

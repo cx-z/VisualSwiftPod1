@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/cx-z/VisualSwiftPod1'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'cx-z' => 'visualzhang@tencent.com' }
+  s.author           = { 'cx-z' => '1612379420@qq.com' }
   s.source           = { :git => 'https://github.com/cx-z/VisualSwiftPod1.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
